@@ -1,4 +1,4 @@
-# Bootlegger Private Store Clone
+# Bootlegger Private Logs Store
 
 This is a React-based clone of the Bootlegger private store landing page.
 
